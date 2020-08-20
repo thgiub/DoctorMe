@@ -1,0 +1,2 @@
+rootProject.name='DoctorMe'
+include ':app'
